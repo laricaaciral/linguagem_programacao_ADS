@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPIFuncionario",
+    "\\WebAPIFuncionario\\WebAPIFuncionario",
+    "\\WebAPIFuncionario\\WebAPIFuncionario\\Controllers",
+    "\\WebAPIFuncionario\\WebAPIFuncionario\\Dominio"
+  ],
+  "SelectedNode": "\\WebAPIFuncionario\\WebAPIFuncionario\\Controllers\\FuncionarioController.cs",
+  "PreviewInSolutionExplorer": false
+}

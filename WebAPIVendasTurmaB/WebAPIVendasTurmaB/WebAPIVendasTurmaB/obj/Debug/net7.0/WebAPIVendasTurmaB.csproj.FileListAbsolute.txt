@@ -1,0 +1,66 @@
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\appsettings.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.exe
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.deps.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.runtimeconfig.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.pdb
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.csproj.AssemblyReference.cache
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.AssemblyInfoInputs.cache
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.AssemblyInfo.cs
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.csproj.CoreCompileInputs.cache
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIVendasTurmaB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIVendasTurmaB.props
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIVendasTurmaB.props
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIVendasTurmaB.props
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\scopedcss\bundle\WebAPIVendasTurmaB.styles.css
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.csproj.CopyComplete
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\refint\WebAPIVendasTurmaB.dll
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.pdb
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.genruntimeconfig.cache
+C:\Users\larissa.deoliveira\source\repos\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\ref\WebAPIVendasTurmaB.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\appsettings.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.exe
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.deps.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.runtimeconfig.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\WebAPIVendasTurmaB.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIVendasTurmaB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIVendasTurmaB.props
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIVendasTurmaB.props
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIVendasTurmaB.props
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\scopedcss\bundle\WebAPIVendasTurmaB.styles.css
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.csproj.CopyComplete
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\refint\WebAPIVendasTurmaB.dll
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\WebAPIVendasTurmaB.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Área de Trabalho\ADS\linguagem_de_programacao\WebAPIVendasTurmaB\WebAPIVendasTurmaB\WebAPIVendasTurmaB\obj\Debug\net7.0\ref\WebAPIVendasTurmaB.dll

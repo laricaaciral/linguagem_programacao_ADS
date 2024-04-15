@@ -1,0 +1,44 @@
+﻿/* Estilo personalizado para o sidebar */
+.sidebar {
+    background-color: #222;
+    color: #fff;
+    height: 100vh; /* Defina a altura do sidebar como 100% da altura da janela */
+    transition: width 0.3s ease-in-out; /* Animação de transição para abrir/fechar o sidebar */
+}
+
+    .sidebar.collapsed {
+        width: 50px; /* Largura reduzida para o sidebar fechado */
+    }
+
+    .sidebar .logo {
+        font-weight: bold;
+        font-size: 20px;
+        padding: 10px;
+    }
+
+    .sidebar .nav-link {
+        color: #fff;
+        padding: 10px;
+        transition: background-color 0.3s;
+    }
+
+        .sidebar .nav-link:hover {
+            background-color: #444;
+        }
+
+/* Estilo para o ícone de abrir/fechar o sidebar */
+.sidebar-toggle {
+    color: #fff;
+    font-size: 24px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Estilo para o conteúdo principal */
+.main-content {
+    transition: margin-left 0.3s ease-in-out; /* Animação de transição para ajustar a margem esquerda ao abrir/fechar o sidebar */
+}
+
+    .main-content.collapsed {
+        margin-left: 50px; /* Ajuste a margem esquerda para acomodar o sidebar fechado */
+    }
